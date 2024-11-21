@@ -7,40 +7,6 @@ Welcome to my GitHub! I am passionate about leveraging technology to solve real-
 
 ---
 
-## 🔧 What I Bring to the Table  
-
-### 🌐 **DevOps Expertise**  
-- Experience with Azure Cloud and Azure DevOps, including CI/CD pipelines and automation.  
-- Proficient in Infrastructure as Code (IaC) using Terraform.
-
-### ⚡ **Automation Wizardry**  
-- Skilled in scripting with PowerShell and Bash to streamline repetitive tasks.  
-- Implemented YAML-based pipelines to enhance deployment workflows.
-
-### 🛠️ **Containerization & Orchestration**  
-- Hands-on experience with Docker and Kubernetes, enabling efficient deployments and scalable applications.
-
-### ☁️ **Cloud & Databases**  
-- Proficient in managing Azure Storage Accounts and Cosmos DB.  
-- Familiar with monitoring and maintaining hybrid cloud environments.
-
----
-
-## 📂 Projects  
-
-Here are some highlights of what I’ve been working on:  
-
-🔹 **CI/CD Pipeline Automation**  
-Streamlined deployment processes using Azure DevOps and YAML pipelines, improving delivery efficiency and reducing errors.
-
-🔹 **Containerized Application Deployment**  
-Designed and deployed containerized applications using Docker and Kubernetes to enhance scalability and reliability.
-
-🔹 **Infrastructure Automation with Terraform**  
-Built infrastructure for cloud-based environments, ensuring consistency and reusability through IaC practices.
-
----
-
 ## 🎯 What Drives Me  
 
 I’m deeply motivated by the challenge of optimizing systems, automating workflows, and delivering high-quality solutions. My goal is to continue learning and contribute to impactful projects that push the boundaries of technology.
