@@ -7,14 +7,6 @@ Welcome to my GitHub! I am passionate about leveraging technology to solve real-
 
 ---
 
-## 📫 Let’s Connect!  
-
-- **LinkedIn:** [https://linkedin.com/in/uzairash](https://linkedin.com/in/uzairash)  
-- **Email:** [uzairashfaq90@gmail.com](mailto:uzairashfaq90@gmail.com)
-
-Feel free to explore my repositories, where you’ll find examples of my work and projects I’m passionate about. Let’s build something amazing together!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairash) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](uzairashfaq90@gmail.com) 
