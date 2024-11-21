@@ -49,7 +49,7 @@ I’m deeply motivated by the challenge of optimizing systems, automating workfl
 
 ## 📫 Let’s Connect!  
 
-- **LinkedIn:** [[uzairash](https://linkedin.com/in/uzairash)](#)  
+- **LinkedIn:** [https://linkedin.com/in/uzairash](https://linkedin.com/in/uzairash)  
 - **Email:** [uzairashfaq90@gmail.com](mailto:uzairashfaq90@gmail.com)
 
 Feel free to explore my repositories, where you’ll find examples of my work and projects I’m passionate about. Let’s build something amazing together!
