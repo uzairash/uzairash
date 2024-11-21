@@ -7,12 +7,6 @@ Welcome to my GitHub! I am passionate about leveraging technology to solve real-
 
 ---
 
-## 🎯 What Drives Me  
-
-I’m deeply motivated by the challenge of optimizing systems, automating workflows, and delivering high-quality solutions. My goal is to continue learning and contribute to impactful projects that push the boundaries of technology.
-
----
-
 ## 📫 Let’s Connect!  
 
 - **LinkedIn:** [https://linkedin.com/in/uzairash](https://linkedin.com/in/uzairash)  
